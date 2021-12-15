@@ -1,0 +1,16 @@
+url: jdbc:mysql://106.15.188.160:3306/mygame?characterEncoding=UTF8
+username: mygame
+password: xiaomo2019
+initialSize: 10
+minIdle: 10
+maxActive: 20
+maxWait: 60000
+timeBetweenEvictionRunsMillis: 60000
+minEvictableIdleTimeMillis: 300000
+validationQuery: SELECT 'x'
+testWhileIdle: true
+testOnBorrow: false
+testOnReturn: false
+poolPreparedStatements: false
+maxPoolPreparedStatementPerConnectionSize: 20
+filters: stat

@@ -1,0 +1,25 @@
+serverId: 1
+platformId: 1
+serverType: 1
+gameServerPort: 9101
+backServerPort: 9102
+httpServerPort: 9103
+configDataPath:
+openTime: 2016-05-16 00:00:00
+combineTime: 2017-01-26 00:00:00
+gameDbConfigPath:
+logDBConfigPath:
+httpDBConfigPath:
+debug: false
+
+
+
+
+
+
+
+
+
+
+
+
